@@ -1,0 +1,62 @@
+		html
+		{
+			scroll-behavior: smooth;
+		}
+		html, body { 
+		    margin:0;
+		    padding:0;
+		    width:100%;
+		}
+
+		body {
+			background-image: url('imgs/blue_2.png');
+		}
+
+		hr {
+			width:  50%;
+			line-height: 75%;
+			margin-left: auto;
+			margin-right: auto;
+			color: black;
+		}
+
+
+		#ngo{
+			text-align: center;
+		}
+
+		#ngo_logo{
+			border-radius: 20%;
+			box-shadow: 4px 4px 3px grey;
+		}
+
+		#myBtn {
+		  position: fixed;
+		  z-index: 99;
+		  margin-left: 10px;
+		  margin-top: 10px;
+		  border: none;
+		  outline: none;
+		  background-color: aliceblue;
+		  color: white;
+		  cursor: pointer;
+		  padding: 6px;
+		  border-radius: 8px;
+		}
+
+		#myBtn:hover {
+		  background-color: lightgrey;
+		}
+
+
+		#science{
+			text-align: center;
+		}
+
+		#wfl_cert{
+			text-align: center;
+		}
+
+		#cert{
+			border-radius: 6px;
+		}
